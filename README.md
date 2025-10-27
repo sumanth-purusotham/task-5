@@ -20,9 +20,9 @@ Capture live network packets and identify basic protocols and traffic types.
 | HTTP | Web communication | GET request to example.com |
 
 ## 📁 Files Included
-- `task5_capture.pcap` (packet capture)
-- `README.md` (this report)
-- Screenshots of packet filters (optional)
+- `task5_capture.pcap` 
+- `README.md`
+- Screenshots of packet filters 
 
 ## ✅ Outcome
 Gained hands-on experience in network packet capture, protocol filtering, and traffic analysis.
